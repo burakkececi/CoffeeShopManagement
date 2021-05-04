@@ -11,7 +11,7 @@ public class MySqlDatabase implements DatabaseAL {
 	static final String DATABASE_DRİVER = "com.mysql.cj.jdbc.Driver";
 	static final String DATABASE_URL = "jdbc:mysql://localhost:3306/CustomerInfo";
 	static final String USERNAME = "root";
-	static final String PASSWORD = "Halikarnas22";
+	static final String PASSWORD = "";
 
 	// init connection objects
 	private Connection connection = null;
